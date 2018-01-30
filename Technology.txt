@@ -1,0 +1,1 @@
+Vue +　WebPack + axios + Router + ResetCss + Vuex + Font-Awesome + Vue-Awesome-Swiper
